@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>George Hickman's Git Achievements</title>
+<item><title>Master Author (Level 7)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Let there be light</title><description>Commit without a parent.</description></item>
 <item><title>Apprentice Architect (Level 1)</title><description>Created a new repository with git init.</description></item>
 <item><title>Apprentice Merchant (Level 1)</title><description>Added an external repository with git remote add.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Homeowner</title><description>Set global email address using git config.</description></item>
 <item><title>Baptised</title><description>Set global user name using git config.</description></item>
 <item><title>Apprentice Gardner (Level 1)</title><description>Shows the commit ancestry graph with git show-branch</description></item>
-<item><title>Author (Level 6)</title><description>Made 2^Level commits using git commit.</description></item>
 </channel></rss>
