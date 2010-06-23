@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>George Hickman's Git Achievements</title>
+<item><title>Apprentice Architect (Level 2)</title><description>Created a new repository with git init.</description></item>
 <item><title>Banker (Level 4)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Apprentice Seamstress (Level 2)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Apprentice Goldsmith (Level 3)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Miller (Level 3)</title><description>Add only part of a file to the stage 118 times with git add -p.</description></item>
 <item><title>Apprentice Miller (Level 2)</title><description>Add only part of a file to the stage 111 times with git add -p.</description></item>
 <item><title>Apprentice Goldsmith (Level 2)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
-<item><title>Apprentice Miller (Level 1)</title><description>Add only part of a file to the stage 101 times with git add -p.</description></item>
 </channel></rss>
