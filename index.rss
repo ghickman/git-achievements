@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>George Hickman's Git Achievements</title>
+<item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Miller (Level 4)</title><description>Add only part of a file to the stage 226 times with git add -p.</description></item>
 <item><title>Apprentice Architect (Level 2)</title><description>Created a new repository with git init.</description></item>
 <item><title>Banker (Level 4)</title><description>Join two or more development histories together with git merge.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Banker (Level 3)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Apprentice Chimney Sweeper (Level 2)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Apprentice Miller (Level 3)</title><description>Add only part of a file to the stage 118 times with git add -p.</description></item>
-<item><title>Apprentice Miller (Level 2)</title><description>Add only part of a file to the stage 111 times with git add -p.</description></item>
 </channel></rss>
