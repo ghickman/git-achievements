@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>George Hickman's Git Achievements</title>
+<item><title>Product Manager (Level 6)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Blacksmith (Level 4)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Banker (Level 5)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Socialite (Level 5)</title><description>pushed a branch to a remote repository using git push</description></item>
@@ -19,5 +20,4 @@
 <item><title>Caretaker</title><description>Added a .gitignore file to a repository.</description></item>
 <item><title>Product Manager (Level 4)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Author (Level 5)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
 </channel></rss>
